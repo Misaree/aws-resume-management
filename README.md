@@ -46,7 +46,7 @@ GET https://<api-id>.execute-api.us-east-1.amazonaws.com/default/GetProcessedRes
   "Skills": ["Python", "AWS", "SQL"],
   "Experience": "3 years"
 }
-
+```
 ---
 
 ### 🛠️ Setup Instructions
@@ -70,5 +70,6 @@ GET https://<api-id>.execute-api.us-east-1.amazonaws.com/default/GetProcessedRes
 - Store actual resumes in **S3** and link via DynamoDB.  
 - Add **authentication** with Amazon Cognito.  
 - Build a **frontend UI** for recruiters.  
+
 
 ---
